@@ -1,0 +1,16 @@
+c:\users\hasna\documents\visual studio 2013\Projects\mophie\mophie\bin\Debug\mophie.exe.config
+c:\users\hasna\documents\visual studio 2013\Projects\mophie\mophie\bin\Debug\mophie.exe
+c:\users\hasna\documents\visual studio 2013\Projects\mophie\mophie\bin\Debug\mophie.pdb
+c:\users\hasna\documents\visual studio 2013\Projects\mophie\mophie\obj\Debug\mophie.csprojResolveAssemblyReference.cache
+c:\users\hasna\documents\visual studio 2013\Projects\mophie\mophie\obj\Debug\mophie.Form1.resources
+c:\users\hasna\documents\visual studio 2013\Projects\mophie\mophie\obj\Debug\mophie.Properties.Resources.resources
+c:\users\hasna\documents\visual studio 2013\Projects\mophie\mophie\obj\Debug\mophie.csproj.GenerateResource.Cache
+c:\users\hasna\documents\visual studio 2013\Projects\mophie\mophie\obj\Debug\mophie.exe
+c:\users\hasna\documents\visual studio 2013\Projects\mophie\mophie\obj\Debug\mophie.pdb
+C:\Users\Hasna\documents\visual studio 2013\Projects\mophie\mophie\obj\Debug\mophie.Form2.resources
+C:\Users\Hasna\documents\visual studio 2013\Projects\mophie\mophie\obj\Debug\mophie.Form3.resources
+C:\Users\Hasna\documents\visual studio 2013\Projects\mophie\mophie\obj\Debug\mophie.Form4.resources
+C:\Users\Hasna\documents\visual studio 2013\Projects\mophie\mophie\obj\Debug\mophie.Form5.resources
+E:\sbdbab 6 ria\mophie\mophie\bin\Debug\mophie.exe.config
+E:\sbdbab 6 ria\mophie\mophie\obj\Debug\mophie.exe
+E:\sbdbab 6 ria\mophie\mophie\obj\Debug\mophie.pdb
